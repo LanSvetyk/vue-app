@@ -1,0 +1,1 @@
+.spinner{position:absolute;left:500px;right:500px;width:100px;color:#0be442;display:flex;min-height:100vh}.spinner:after{animation:changeContent .9s linear infinite;display:block;content:"⠋";font-size:80px}@keyframes changeContent{10%{content:"⠙"}20%{content:"⠹"}30%{content:"⠸"}40%{content:"⠼"}50%{content:"⠴"}60%{content:"⠦"}70%{content:"⠧"}80%{content:"⠇"}90%{content:"⠏"}}
